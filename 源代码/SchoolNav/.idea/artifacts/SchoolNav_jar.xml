@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="SchoolNav:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SchoolNav_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SchoolNav.jar">
+        <element id="module-output" name="SchoolNav" />
+      </element>
+    </root>
+  </artifact>
+</component>
